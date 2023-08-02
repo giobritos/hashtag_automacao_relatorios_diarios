@@ -53,6 +53,6 @@ Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestõe
 
 ## Agradecimentos
 
-Agradecemos ao Professor João Paulo Rodrigues de Lira da Hashtag Treinamentos pelo projeto idealizado e à comunidade de código aberto por tornar disponíveis as bibliotecas utilizadas neste projeto. 
+Agradeço ao Professor João Paulo Rodrigues de Lira da Hashtag Treinamentos pelo projeto idealizado e à comunidade de código aberto por tornar disponíveis as bibliotecas utilizadas neste projeto. 
 
 **Desenvolvido com :heart: e Python.**
